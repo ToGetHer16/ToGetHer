@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <kafka_version>0.11.0.0</kafka_version>
+        <kafka_version>0.11.0.2</kafka_version>
     </properties>
 
     <dependencies>
